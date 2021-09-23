@@ -1,0 +1,36 @@
+body{
+    background: rgba(45, 146, 240, 0.425);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    }
+    header{
+        color: rgba(54, 110, 126, 0.651);
+        text-align: center;
+    
+    }
+    section {
+        background: white;
+        border-radius: 10px;
+        padding: 12px;
+        width: 500px;
+        margin: auto;
+        box-shadow: 5px 5px 8px rgba(0, 0, 0, 0.158);
+    
+    }
+    
+    footer{
+
+        color: rgba(54, 110, 126, 0.651);
+        text-align: center;
+        font-style: italic;
+    }
+    .pass {
+        text-decoration: none;
+        color :rgba(54, 110, 126, 0.651);
+       
+       
+    }
+
+        
+      
+    
