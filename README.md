@@ -1,6 +1,5 @@
 # Primeiro passo js
- Começo de tudo
+ Calculadora de idade 
  
-Um pequeno passo pra mim mas um grande passo pra Humanidade 
-
-Programa simples pois ,nesse programa estou iniciando no Js!
+  Foi usado 
+HTML, CSS e JS
